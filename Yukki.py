@@ -132,7 +132,7 @@ async def start_yukki():
             await wdk.start()
         except Exception as e:
             pass
-
+oí
     if smexxxx:
         session_name = str(smexxxx)
         print("String 4 Found")
@@ -842,12 +842,9 @@ async def help(e):
     
         
 text = """
-██╗░░░██╗██╗░░░██╗██╗░░██╗██╗░░██╗██╗
-╚██╗░██╔╝██║░░░██║██║░██╔╝██║░██╔╝██║
-░╚████╔╝░██║░░░██║█████═╝░█████═╝░██║
-░░╚██╔╝░░██║░░░██║██╔═██╗░██╔═██╗░██║
-░░░██║░░░╚██████╔╝██║░╚██╗██║░╚██╗██║
-░░░╚═╝░░░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝"""
+MARCUSxSPAM"""
+
+
 
 print(text)
 print("")
